@@ -3,3 +3,6 @@
 
 ## Demo - Basic setup with output in MD format
 ![](./assets/basic_setup_output_md.png)
+
+## Demo - Basic setup with output in JSON
+![](./assets/basic_setup_output_json.png)
